@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircumferenceThomasA", "CircumferenceThomasA\CircumferenceThomasA.csproj", "{57DC95A8-B9A5-4352-87E6-F6B8A5CAB4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DC95A8-B9A5-4352-87E6-F6B8A5CAB4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DC95A8-B9A5-4352-87E6-F6B8A5CAB4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DC95A8-B9A5-4352-87E6-F6B8A5CAB4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DC95A8-B9A5-4352-87E6-F6B8A5CAB4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
