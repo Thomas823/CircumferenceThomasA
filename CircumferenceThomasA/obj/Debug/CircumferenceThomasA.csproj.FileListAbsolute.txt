@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 1 (Problem Solving)\CircumferenceThomasA\CircumferenceThomasA\bin\Debug\CircumferenceThomasA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 1 (Problem Solving)\CircumferenceThomasA\CircumferenceThomasA\bin\Debug\CircumferenceThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 1 (Problem Solving)\CircumferenceThomasA\CircumferenceThomasA\bin\Debug\CircumferenceThomasA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 1 (Problem Solving)\CircumferenceThomasA\CircumferenceThomasA\obj\Debug\CircumferenceThomasA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 1 (Problem Solving)\CircumferenceThomasA\CircumferenceThomasA\obj\Debug\CircumferenceThomasA.frmCircumference.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 1 (Problem Solving)\CircumferenceThomasA\CircumferenceThomasA\obj\Debug\CircumferenceThomasA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 1 (Problem Solving)\CircumferenceThomasA\CircumferenceThomasA\obj\Debug\CircumferenceThomasA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 1 (Problem Solving)\CircumferenceThomasA\CircumferenceThomasA\obj\Debug\CircumferenceThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 1 (Problem Solving)\CircumferenceThomasA\CircumferenceThomasA\obj\Debug\CircumferenceThomasA.pdb
